@@ -191,7 +191,7 @@ void user_main(void)
     // register gw upgrade inform callback
     tuya_iot_force_reg_gw_ug_cb(__gw_ug_inform_cb);
 
-#if 1
+#if 0
     WF_GW_PROD_INFO_S wf_prod_info = {
         "003tuyatestf7f149189","NeA8Wc7srpAZHEMuru867oblOLN2QCC5",NULL,NULL
     };
