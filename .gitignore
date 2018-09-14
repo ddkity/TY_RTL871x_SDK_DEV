@@ -10,8 +10,8 @@ project/realtek_amebaz_va0_example/tuya_user/**/*bin
 *.asm
 *.axf
 *.html
-SI/
-WCSI/
-WWSI/
+PWM4SI/
+PWM2SI/
+PWM1SI/
 
 
